@@ -1,0 +1,6 @@
+User submits Ticket
+Ticket stored in database
+priority assigned 
+Dashboard updated
+SNS alert sent 
+Admin updates ticket status 
