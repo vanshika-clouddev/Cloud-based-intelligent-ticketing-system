@@ -36,10 +36,20 @@ AWS SNS Alerts
 ↓
 Admin Dashboard
 
+## Learning Objectives
+
+- Build a cloud-hosted ticket management platform
+- Implement incident tracking workflows
+- Integrate AWS cloud services
+- Practice cloud deployment and monitoring
+- Develop real-world support automation solutions
+  
+
 ## Future Enhancements
 - User Authentication
 - Analytics Dashboard
 - SLA Monitoring
+  
 
-## Team
-2-Member Collaborative Project
+## Project Type
+Self Initiated Cloud Engineering Project 
