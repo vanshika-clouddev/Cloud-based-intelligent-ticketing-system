@@ -1,0 +1,11 @@
+User
+↓
+Streamlit UI
+↓
+Python Backend
+↓
+MySQL / AWS RDS
+↓
+AWS SNS Alerts
+↓
+Admin Dashboard
